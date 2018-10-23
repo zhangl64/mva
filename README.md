@@ -11,29 +11,20 @@ The original MVA algorithm for load-dependent queues suffers from numerical inst
 
 For the detailed description and discussion of these two algorithms, please refer to our publication. If you used SMVA or ASMVA approaches in your academic publication, please cite it as follows:
 
+```
 @Inbook{Zhang2019,
-
 author="Zhang, Lei
 and Down, Douglas G.",
-
 editor="Puliafito, Antonio
 and Trivedi, Kishor S.",
-
 title="SMVA: A Stable Mean Value Analysis Algorithm for Closed Systems with Load-Dependent Queues",
-
 bookTitle="Systems Modeling: Methodologies and Tools",
-
 year="2019",
-
 publisher="Springer International Publishing",
-
 address="Cham",
-
 pages="11--28",
-
 isbn="978-3-319-92378-9",
-
 doi="10.1007/978-3-319-92378-9_2",
-
 url="https://doi.org/10.1007/978-3-319-92378-9_2"
 }
+```
